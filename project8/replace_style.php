@@ -1,0 +1,51 @@
+
+<a href="save_the_page.php">BACK</a>
+
+<?php
+
+
+  include('simple_html_dom.php');
+ $fileName = "addustour.html"; 
+//finding the <href>
+$html = new simple_html_dom();  
+$html = file_get_html('addustour.html');
+
+$my_style_url=$html->find('link') ;
+
+
+
+
+$handle = fopen($fileName,'r');
+
+  
+while (!feof($handle))
+{ 
+$text=fgets($handle);
+
+
+//get the name of img
+
+foreach($my_style_url as $element)
+{
+ $style_name= basename($element->href);
+
+if (strpos($text,$style_name) !== false)
+ {
+
+   $text2=str_replace($element->href,"style_saved/".$style_name, $text);
+   $text=$text2;
+
+  
+}
+}
+
+echo $text;
+ }
+  
+fclose($handle);
+
+
+
+
+
+?>

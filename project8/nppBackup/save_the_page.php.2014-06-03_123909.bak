@@ -1,0 +1,17 @@
+<form>
+Url: <input type="text" url="url1"><br>
+
+</form>
+
+
+
+<?php
+
+//save the page in my computer
+
+$homepage = file_get_contents("http://www.addustour.com/");
+$name_of_new_page='alghad.html';
+file_put_contents($name_of_new_page,$homepage);
+
+?>
+		  

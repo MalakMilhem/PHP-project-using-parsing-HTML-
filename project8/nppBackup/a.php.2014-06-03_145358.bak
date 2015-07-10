@@ -1,0 +1,7 @@
+<?php
+
+$file_handle = fopen($template_file, "rb");
+  echo fread($file_handle, filesize($template_file));
+  fclose($file_handle);
+
+?>

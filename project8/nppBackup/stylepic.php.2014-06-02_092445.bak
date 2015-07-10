@@ -1,0 +1,14 @@
+<?php
+//$css IS A VAR CONTAINING THAT CSS CODE ABOVE
+$css='style.css';
+echo $css;
+
+
+$html = new simple_html_dom();  
+$html = file_get_html('addustour.html');
+
+echo $html;
+
+?>
+
+

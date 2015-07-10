@@ -1,0 +1,58 @@
+
+<?php
+include('simple_html_dom.php');
+
+//save the page in my computer
+$homepage = file_get_contents('http://www.alghad.com/');
+$name_of_new_page='alghad.html';
+file_put_contents($name_of_new_page,$homepage);
+
+
+//finding the <img>
+$html = new simple_html_dom();  
+$html = file_get_html('alghad.html');
+
+$my_img_url=$html->find('img') ;
+
+foreach($my_img_url as $element) 
+$my_img[] = "http://www.alghad.com/".$element->src;
+
+var_dump($a);
+
+foreach($html->find('img') as $element) 
+  echo $element->src;
+	
+$my_img="http://yu.edu.jo/$a";
+
+
+/*
+$fullpath ="images_saved";
+foreach($my_img as $i){
+    image_save_from_url($i,$fullpath);
+ 
+    if(getimagesize($fullpath."/".basename($i))){
+        echo '<h3 style="color: green;">Image ' . basename($i) . ' Downloaded Successfully</h3>';
+    }else{
+        echo $fullpath."/".basename($i);
+    }
+}
+ 
+function image_save_from_url($my_img,$fullpath){
+    if($fullpath!="" && $fullpath){
+        $fullpath = $fullpath."/".basename($my_img);
+    }
+    $ch = curl_init ($my_img);
+    curl_setopt($ch, CURLOPT_HEADER, 0);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_BINARYTRANSFER,1);
+    curl_setopt ($ch, CURLOPT_FOLLOWLOCATION, 1);
+    $rawdata=curl_exec($ch);
+    curl_close ($ch);
+    if(file_exists($fullpath)){
+        unlink($fullpath);
+    }
+    $fp = fopen($fullpath,'x');
+    fwrite($fp, $rawdata);
+    fclose($fp);
+}*/
+?>

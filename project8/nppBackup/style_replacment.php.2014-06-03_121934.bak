@@ -1,0 +1,11 @@
+
+<?php
+$handle = fopen("style.css",'r+'); 
+while (!feof($handle))
+{ 
+
+$text=fgets($handle);
+$tag="<br>";
+echo $tag;
+}
+ ?>

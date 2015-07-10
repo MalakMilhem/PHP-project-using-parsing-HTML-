@@ -1,0 +1,8 @@
+<?php
+$name="http://static3.addustour.com/dsstatic/css/fp_style.css";
+
+
+$num= strrpos($name,'/');
+$name = substr($name,$num);
+echo $name;
+?>

@@ -1,0 +1,7 @@
+<?php
+$name="malak musbah / milhem";
+
+$name='/.+(?=\s-)/'  ;
+
+echo $name;
+?>

@@ -1,0 +1,27 @@
+<?php
+include('simple_html_dom.php');
+include('cssparser.php');
+//finding the <href>
+$html = new simple_html_dom();  
+$html = file_get_html('addustour.html');
+
+$my_style_url=$html->find('link') ;
+foreach($my_style_url as $element) 
+$my_style[] = $element->href;
+
+
+foreach($my_style as $element) 
+{
+$num= strrpos($element,'/');
+$element=substr($element,0,$num);
+}
+//finding the <img>
+
+$html = file_get_html('style_saved/style.css');
+
+$css = new cssparser();
+$css->ParseStr($html);
+echo $css->Get("body ","background-image");     // returns #777777
+//echo $css->Get("b.test","color");// returns #777777
+//echo $css->Get(".test","color"); // returns an empty string
+?>

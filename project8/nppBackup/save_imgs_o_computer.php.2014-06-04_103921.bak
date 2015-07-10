@@ -1,0 +1,71 @@
+<a href="save_the_page.php">BACK</a>
+
+<?php
+include('simple_html_dom.php');
+session_start();
+
+
+//finding the <img>
+$html = new simple_html_dom();  
+$html = file_get_html($_SESSION['name_of_new_page']);//page.html
+
+$my_img_url=$html->find('img') ;
+
+
+foreach($my_img_url as $element) 
+$my_img1[] =$element->src;
+//
+
+foreach($my_img1 as $i)
+{
+$char = substr($i,0,1);
+if($char!='w')
+{
+$my_img1[]=$_SESSION['url'].$i;
+}
+if($char=='w')
+$my_img[]=$my_img1;
+}
+
+foreach($my_img as $ii)
+{
+echo $ii."<br>";
+}
+
+
+
+
+$fullpath ="images_saved";
+foreach($my_img as $i)
+{
+    image_save_from_url($i,$fullpath); 
+    }
+
+ /*
+function image_save_from_url($my_img,$fullpath)
+{
+   ini_set('max_execution_time', 1500);
+   
+   if($fullpath!="" && $fullpath)
+	{
+        $fullpath = $fullpath."/".basename($my_img);
+    }
+
+    $ch = curl_init ($my_img);
+    curl_setopt($ch, CURLOPT_HEADER,0);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_BINARYTRANSFER,1);
+    curl_setopt ($ch, CURLOPT_FOLLOWLOCATION, 1);
+    $rawdata=curl_exec($ch);
+    curl_close ($ch);
+	
+    if(file_exists($fullpath))
+	{
+        unlink($fullpath);
+    }
+    $fp = fopen($fullpath,'w+'); 
+    fwrite($fp, $rawdata);
+    fclose($fp);
+
+}*/
+?>

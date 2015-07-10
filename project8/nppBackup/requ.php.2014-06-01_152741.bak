@@ -1,0 +1,26 @@
+<?php
+include('simple_html_dom.php');
+
+//finding the <href>
+$html = new simple_html_dom();  
+$html = file_get_html('addustour.html');
+
+$my_style_url=$html->find('link') ;
+foreach($my_style_url as $element) 
+$my_style[] = $element->href;
+
+
+foreach($my_style as $element) 
+{
+$num= strrpos($element,'/');
+$element=substr($element,0,$num);
+}
+
+$stylepics = file_get_contents('style_saved/style.css');
+
+$my_img_url=$html->find('url') ;
+
+foreach($my_img_url as $element) 
+echo $element;
+//$my_img[] =$element->src;
+?>

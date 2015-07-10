@@ -1,0 +1,7 @@
+<?php
+//$css IS A VAR CONTAINING THAT CSS CODE ABOVE
+$css='style.css';
+echo $css;
+?>
+
+

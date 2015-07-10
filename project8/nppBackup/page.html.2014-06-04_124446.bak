@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+	<!-- Meta, title, CSS, favicons, etc. -->
+	<meta charset="utf-8">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="description" content="صحيفة يومية عربية مستقلة تصدر في عمّان عن الشركةالأردنية المتحدة للصحافة والنشر.">
+	<meta name="keywords" content="جريدة,يوميىة,عربية,الغد,الأردني,الرياضة,الاقتصاد,حياتنا,english,point,of,view,sport,politics,economy,life,style,عرب,عالم" />
+	<meta name="author" content="">
+	<meta http-equiv="refresh" content="600">
+
+	<title>جريدة الغد</title>
+
+<link href="./css/al_font.css" rel="stylesheet"><link href="./css/al_alghad.css?v=7" rel="stylesheet">	<link rel="icon" type="image/x-icon" href="./favicon.ico"></link>
+</head>
+<body class="category-0">
+<!-- start of including header path -->
+
+<!-- BEGIN EFFECTIVE MEASURE CODE -->
+<script type="text/javascript">
+  (function() {
+    var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+    em.src = ('https:' == document.location.protocol ? 'https://me-ssl' : 'http://me-cdn') + '.effectivemeasure.net/em.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+  })();
+</script>
+<noscript>
+<img src="//me.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
+</noscript>
+<!--END EFFECTIVE MEASURE CODE -->
+<!--BEGIN GOOFLE ANALYTICS CODE -->
+    <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-1170673-59']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+<!--END GOOFLE ANALYTICS CODE -->
+
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+
+googletag.cmd.push(function() {
+googletag.defineSlot('/82158532/alghad_leaderboard', [728, 90], 'div-gpt-ad-1391337273256-0').addService(googletag.pubads());
+googletag.defineSlot('/82158532/alghad_lower_leaderboard', [978, 63], 'div-gpt-ad-1392458718280-0').addService(googletag.pubads());
+googletag.defineSlot('/82158532/alghad_medium-rectangle', [300, 250], 'div-gpt-ad-1391337273256-1').addService(googletag.pubads());
+googletag.defineSlot('/82158532/alghad_skyscraper', [120, 600], 'div-gpt-ad-1391337273256-2').addService(googletag.pubads());
+googletag.defineSlot('/82158532/alghad_half-page-ad', [300, 600], 'div-gpt-ad-1391608370823-0').addService(googletag.pubads());
+googletag.defineSlot('/82158532/alghad_wide-skyscraper', [160, 600], 'div-gpt-ad-1391348094794-0').addService(googletag.pubads());
+googletag.defineSlot('/82158532/alghad_wide-skyscraper-right', [160, 600], 'div-gpt-ad-1392018642001-0').addService(googletag.pubads());
+//googletag.defineSlot('/82158532/alghad_float', [1, 1], 'div-gpt-ad-1395670702146-0').addService(googletag.pubads());
+googletag.defineOutOfPageSlot('/82158532/alghad_float', 'div-gpt-ad-1395670702146-0').addService(googletag.pubads());
+
+googletag.pubads().enableSingleRequest();
+/*
+googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+	var slotId = event.slot.getSlotId().getDomId();
+	if (slotId == 'div-gpt-ad-1395670702146-0')
+	{
+		var obj = fetch_object(slotId);
+
+		var newdiv = document.createElement('div');
+		newdiv.innerHTML = 'إضغط هنا لإغلاق الإعلان';
+		newdiv.onclick = function(){ obj.style.display = 'none'; };
+		addClass(newdiv, 'close');
+		obj.appendChild(newdiv);
+		setTimeout(function() { obj.style.display = 'none'; }, 20000);
+	}
+});
+*/
+googletag.pubads().setTargeting("page", "index");
+googletag.pubads().setTargeting("category", "جريدة الغد");
+googletag.pubads().setTargeting("demo", "");
+
+googletag.enableServices();
+});
+</script>
+
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"FHS0j1a8Dy00Ms", domain:"alghad.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=FHS0j1a8Dy00Ms" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+
+	<div id="al-top" align="center">
+		<div class="al-container">
+			<div class="al-nav-search">
+				<form method="get" action="./search.php" role="search">
+					<input type="text" placeholder="بحث" name="search" value="">
+					<button type="submit"></button>
+				</form>
+			</div>
+
+			<ul class="al-inline">
+				<li class="weather">عمان 30&deg; <img src="http://sitewidgets.arabiaweather.com/assets/icons/weather/25x25/2.png" title="غالباً صافي" /></li>
+				<li>12:43</li>
+				<li>الأربعاء 04 حزيران 2014 - 5 شعبان 1435</li>
+			</ul>
+		</div>
+	</div>
+	<div id="al-head" align="center">
+		<div class="al-container">
+			<div style="float:left;">
+				<!-- alghad_leaderboard -->
+				<div id='div-gpt-ad-1391337273256-0' style='width:728px; height:90px;'>
+				<script type='text/javascript'>
+				googletag.cmd.push(function() { googletag.display('div-gpt-ad-1391337273256-0'); });
+				</script>
+				</div>
+			</div>
+			<div id="al-logo"><a href="./?s=822f7981c47c683d66e152770678bc2f">جريدة الغد</a></div>
+		</div>
+	</div>
+	<div align="center">
+		<div class="al-container">
+<ul id="al-nav-0" class="al-nav"><li class="category-0 "><a href="./?s=822f7981c47c683d66e152770678bc2f" title="الصفحة الرئيسية">الصفحة الرئيسية</a></li><li class="category-1"><a href="./categories/1-الغد-الأردني?s=822f7981c47c683d66e152770678bc2f" title="الغد الأردني">الغد الأردني</a></li><li class="category-2"><a href="./categories/2-اقتصاد?s=822f7981c47c683d66e152770678bc2f" title="اقتصاد">اقتصاد</a></li><li class="category-5"><a href="./categories/5-الرياضة?s=822f7981c47c683d66e152770678bc2f" title="الرياضة">الرياضة</a></li><li class="category-4"><a href="./categories/4-حياتنا?s=822f7981c47c683d66e152770678bc2f" title="حياتنا">حياتنا</a></li><li class="category-9"><a href="./categories/9-محافظات?s=822f7981c47c683d66e152770678bc2f" title="محافظات">محافظات</a></li><li class="category-3"><a href="./categories/3-العرب-والعالم?s=822f7981c47c683d66e152770678bc2f" title="العرب والعالم">العرب والعالم</a></li><li class="category-64"><a href="./categories/64-أفكار-ومواقف?s=822f7981c47c683d66e152770678bc2f" title="أفكار ومواقف">أفكار ومواقف</a></li><li class="category-93"><a href="./categories/93-English?s=822f7981c47c683d66e152770678bc2f" title="English">English</a></li></ul><!-- Start of expandable banner -->
+<!-- ExpandableLeaderBOARD-Umniah>
+<div id='div-gpt-ad-1391090877726-0' style='width:986px; height:63px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1391191718259-0'); });
+</script>
+</div>
+< End of expandable banner -->
+<!--script type="text/javascript" src="./jaxscript.js"></script>
+<script type="text/javascript" src="./expandablebanners.js"></script>
+<script type="text/javascript">
+ExpandableBanners.setExpandedImage("./images/square_expanded.jpg");
+</script-->
+<!-- alghad_lower_leaderboard -->
+<div id='div-gpt-ad-1392458718280-0' style='width:978px; height:63px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1392458718280-0'); });
+</script>
+</div>
+
+			<div id="al-ticker">
+				<div class="al-icon-social">
+					<a href="https://www.facebook.com/alghadnewspaper" target="_blank">Facebook</a>
+					<a class="google" href="https://plus.google.com/102540826095563741310/posts" target="_blank">Google+</a>
+					<a class="twitter" href="https://twitter.com/AlghadNews" target="_blank">Twitter</a>
+					<a class="youtube" href="http://www.youtube.com/alghadnewspaper" target="_blank">Youtube</a>
+					<div class="left fb-like" data-href="https://www.facebook.com/alghadnewspaper" data-layout="button" data-action="like" data-show-faces="true" data-share="false"></div>
+				</div>
+				<ul>
+<li><a href="./articles/806075-ليبيا-نجاة-حفتر-من-محاولة-اغتيال-قرب-بنغازي?s=822f7981c47c683d66e152770678bc2f" tabindex="-1"><span class="head">الان</span>ليبيا: نجاة حفتر من محاولة اغتيال قرب بنغازي</a></li><li><a href="./articles/806018-ما-لا-يمكن-فهمه-في-برقش?s=822f7981c47c683d66e152770678bc2f" tabindex="-1"><span class="head">الان</span>ما لا يمكن فهمه في برقش</a></li><li><a href="./articles/805981-الإنفاق-من-المنحة-الخليجية-لم-يتجاوز-20?s=822f7981c47c683d66e152770678bc2f" tabindex="-1"><span class="head">الان</span>الإنفاق من المنحة الخليجية لم يتجاوز 20 %</a></li><li><a href="./articles/805884-معارك-عنيفة-بين-الجيش-الاوكراني-والانفصاليين-في-سلافيانسك?s=822f7981c47c683d66e152770678bc2f" tabindex="-1"><span class="head">الان</span>معارك عنيفة بين الجيش الاوكراني والانفصاليين في سلافيانسك</a></li><li><a href="./articles/805883-قذائف-على-دمشق-وتصعيد-في-ريفها-وفي-حلب-تزامنا-مع-الانتخابات?s=822f7981c47c683d66e152770678bc2f" tabindex="-1"><span class="head">الان</span>قذائف على دمشق وتصعيد في ريفها وفي حلب تزامنا مع الانتخابات</a></li><li><a href="./articles/805882-تركيا-تدرج-جبهة-النصرة-على-لائحتها-للمنظمات-الإرهابية?s=822f7981c47c683d66e152770678bc2f" tabindex="-1"><span class="head">الان</span>تركيا تدرج &quot;جبهة النصرة&quot; على لائحتها للمنظمات الإرهابية</a></li><li><a href="./articles/805879-إسرائيل-تعيق-الحصول-على-معلومات-حول-الدباس-وحماد?s=822f7981c47c683d66e152770678bc2f" tabindex="-1"><span class="head">الان</span>إسرائيل تعيق الحصول على معلومات حول الدباس وحماد</a></li>				</ul>
+			</div>
+		</div>
+	</div><!-- end of including header path -->
+	<div id="al-body" align="center">
+		<div class="al-container fixfloat">
+			<div id="al-left">
+<div class="al-module-2 al-color-12"><div class="al-head"><a href="./categories/12-شارك-برأيك?s=822f7981c47c683d66e152770678bc2f">&rsaquo; شارك برأيك</a></div><div class="al-content border"><ul><li style="width:100%;"><a href="./articles/803348-هل-تعتقد-أن-المزايا-التي-قدمتها-الحكومة-لأبناء-الأردنيات-المتزوجات-من-أجانب،-منصفة؟?s=822f7981c47c683d66e152770678bc2f"><span class="highlight">&raquo;</span>هل تعتقد أن المزايا التي قدمتها الحكومة لأبناء الأردنيات المتزوجات من أجانب، منصفة؟</a></li></ul></div></div>
+<div class="al-banner">
+	<!-- alghad_medium-rectangle -->
+	<div id='div-gpt-ad-1391337273256-1' style='width:300px; height:250px;'>
+	<script type='text/javascript'>
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1391337273256-1'); });
+	</script>
+	</div>
+</div>
+
+<div class="al-module-10 al-color-130"><div class="al-head"><a href="./categories/130-تلفزيون-الغد?s=822f7981c47c683d66e152770678bc2f">&rsaquo; تلفزيون الغد</a></div><div class="al-content border"><ul><iframe width="290" height="170" frameborder="0" allowfullscreen="" src="http://www.youtube.com/embed/F4Jz_SMPxyY"></iframe><li class="category-131"><a href="./categories/131-منع-في-الصين?s=822f7981c47c683d66e152770678bc2f" title="منع في الصين">منع في الصين</a></li><li class="category-132"><a href="./categories/132-برنامج-عشرون?s=822f7981c47c683d66e152770678bc2f" title="برنامج "عشرون"">برنامج "عشرون"</a></li><li class="category-133"><a href="./categories/133-ترِندات?s=822f7981c47c683d66e152770678bc2f" title="ترِندات">ترِندات</a></li><li class="category-134"><a href="./categories/134-مقالات-بالمختصر?s=822f7981c47c683d66e152770678bc2f" title="مقالات بالمختصر">مقالات بالمختصر</a></li></ul></div></div><div class="al-module-2 al-color-7">
+	<div class="al-head"><a href="./categories/7-كاريكاتير?s=822f7981c47c683d66e152770678bc2f">&rsaquo; كاريكاتير</a></div><div class="al-content border"><ul><a href="./articles/806022-كاريكاتير-ناصر-الجعفري-غابات-برقش?s=822f7981c47c683d66e152770678bc2f"><img src="./file.php?fileid=231969&width=298&height=127" width="298" height="127" title="كاريكاتير ناصر الجعفري- غابات برقش" /></a><ul><li><a href="./articles/805835-كاريكاتير-ناصر-الجعفري-انتخابات-وسط-الدمار?s=822f7981c47c683d66e152770678bc2f">الثلاثاء<img src="./file.php?fileid=231839&width=119&height=60" width="119" height="60" title="كاريكاتير ناصر الجعفري- انتخابات وسط الدمار" /></a></li><li><a href="./articles/805567-ناصر-الجعفري-اضراب-الاسرى-عن-الطعام-في-سجون-اسرائيل?s=822f7981c47c683d66e152770678bc2f">الاثنين<img src="./file.php?fileid=231687&width=119&height=60" width="119" height="60" title="ناصر الجعفري- اضراب الاسرى عن الطعام في سجون اسرائيل" /></a></li></ul><a class="more" href="./categories/7-كاريكاتير?s=822f7981c47c683d66e152770678bc2f">المزيد <span class="highlight">&raquo;</span></a>
+</div></div><div class="al-module-4"><div class="al-head"><a href="http://www.youtube.com/user/alghadnewspaper?feature=results_main">&rsaquo; فيديو</a></div><div class="al-content border"><iframe name="videoIframe" width="300" height="170" frameborder="0" allowfullscreen="" src="http://www.youtube.com/embed/F4Jz_SMPxyY"></iframe><ul><li><a href="http://www.youtube.com/embed/F4Jz_SMPxyY" target="videoIframe"><img src="http://i.ytimg.com/vi/F4Jz_SMPxyY/default.jpg" width="100" height="70" title="مقالات بالمختصر - ضحى عبدالخالق - "سيليكون بادية": ماء وحبة تمر"></a></li><li><a href="http://www.youtube.com/embed/Oc6Yx8hokys" target="videoIframe"><img src="http://i.ytimg.com/vi/Oc6Yx8hokys/default.jpg" width="100" height="70" title="مسيرة كرنفالية بالدراجات النارية احتفالاً بعيد الاستقلال"></a></li><li><a href="http://www.youtube.com/embed/KxhjqxmkIuU" target="videoIframe"><img src="http://i.ytimg.com/vi/KxhjqxmkIuU/default.jpg" width="100" height="70" title="مقالات بالمختصر - منار الرشواني - حين يستميت السوريون للاقتراع"></a></li><li><a href="http://www.youtube.com/embed/xjNgX1X_3p4" target="videoIframe"><img src="http://i.ytimg.com/vi/xjNgX1X_3p4/default.jpg" width="100" height="70" title="هكذا كان التدريب الأول للوحدات بعد الدوري"></a></li><li><a href="http://www.youtube.com/embed/w_q9mjvQxpM" target="videoIframe"><img src="http://i.ytimg.com/vi/w_q9mjvQxpM/default.jpg" width="100" height="70" title="مقالات بالمختصر - د. موسى شتيوي - زلزال صعود "اليمين" في انتخابات البرلمان الأوروبي"></a></li><li><a href="http://www.youtube.com/embed/8E6xVUBROjE" target="videoIframe"><img src="http://i.ytimg.com/vi/8E6xVUBROjE/default.jpg" width="100" height="70" title="منختب الكرة يباشر تحضيراته لمباراة كولومبيا ونهائيات آسيا"></a></li><li><a href="http://www.youtube.com/embed/SCr5w44tDHI" target="videoIframe"><img src="http://i.ytimg.com/vi/SCr5w44tDHI/default.jpg" width="100" height="70" title="مقالات بالمختصر - محمد سويدان - الاعتداء على المرافق العامة"></a></li><li><a href="http://www.youtube.com/embed/wBePNJu6bu4" target="videoIframe"><img src="http://i.ytimg.com/vi/wBePNJu6bu4/default.jpg" width="100" height="70" title="اعتصام لحملة "أمي أردنية" أمام وزارة الداخلية"></a></li><li><a class="more" href="http://www.youtube.com/user/alghadnewspaper?feature=results_main">المزيد <span class="highlight">&#187;</span></a></li></ul></div></div><div class="al-banner"><img src="./images/banner_left2_300x250-royal.jpg"  width="300" height="250" /></div><div class="al-module-2 al-color-43"><div class="al-head"><a href="./categories/43-ترجمات?s=822f7981c47c683d66e152770678bc2f">&rsaquo; ترجمات</a></div><div class="al-content border"><ul><li><a href="./articles/805998-إيديولوجية-الخاطفين-النيجيريين?s=822f7981c47c683d66e152770678bc2f"><span class="highlight">&raquo;</span>إيديولوجية الخاطفين النيجيريين</a></li><li><a href="./articles/805992-المحاصيل-المعدلة-وراثياً-إطعام-العالم?s=822f7981c47c683d66e152770678bc2f"><span class="highlight">&raquo;</span>المحاصيل المعدلة وراثياً.. إطعام العالم</a></li></ul><a class="more" href="./categories/43-ترجمات?s=822f7981c47c683d66e152770678bc2f">المزيد <span class="highlight">&raquo;</span></a></div></div><div class="al-module-2 al-color-101"><div class="al-head"><a href="./categories/101-صحافة-عبرية?s=822f7981c47c683d66e152770678bc2f">&rsaquo; صحافة عبرية</a></div><div class="al-content border"><ul><li><a href="./articles/806057-إضاعة-الفرصة-الإسرائيلية?s=822f7981c47c683d66e152770678bc2f"><span class="highlight">&raquo;</span>إضاعة الفرصة الإسرائيلية</a></li><li><a href="./articles/806056-يعرف-حسم-القرار-في-الغرفة-المغلقة?s=822f7981c47c683d66e152770678bc2f"><span class="highlight">&raquo;</span>يعرف حسم القرار في الغرفة المغلقة</a></li></ul><a class="more" href="./categories/101-صحافة-عبرية?s=822f7981c47c683d66e152770678bc2f">المزيد <span class="highlight">&raquo;</span></a></div></div><div class="al-module-2 al-color-107"><div class="al-head"><a href="./categories/107-دين-و-دنيا?s=822f7981c47c683d66e152770678bc2f">&rsaquo; دين و دنيا</a></div><div class="al-content border"><ul><li><a href="./articles/804918-أفحسبتم-أنما-خلقناكم-عبثاً-وأنكم-إلينا-لا-ترجعون?s=822f7981c47c683d66e152770678bc2f"><span class="highlight">&raquo;</span>&quot;أفحسبتم أنما خلقناكم عبثاً وأنكم إلينا لا ترجعون&quot;</a></li><li><a href="./articles/804919-أنؤمن-لبشرين-مثلنا-وقومهما-لنا-عابدون?s=822f7981c47c683d66e152770678bc2f"><span class="highlight">&raquo;</span>&quot;أنؤمن لبشرين مثلنا وقومهما لنا عابدون&quot;</a></li></ul><a class="more" href="./categories/107-دين-و-دنيا?s=822f7981c47c683d66e152770678bc2f">المزيد <span class="highlight">&raquo;</span></a></div></div><div class="al-module-3"><ul id="tabobj_most_0" class="al-head"><li id="views" class="active"><a href="#">الأكثر قراءة</a></li><li id="commentcount"><a href="#">الأكثر تعليقاً</a></li></ul><div class="al-content"><div id="most_0_views"><ul><li><a href="./articles/806011-سائقان-محتجان-يغلقان-دوار-الداخلية?s=822f7981c47c683d66e152770678bc2f" title="سائقان محتجان يغلقان دوار الداخلية"><span class="arrow highlight">&raquo;</span>سائقان محتجان يغلقان دوار الداخلية</a></li><li><a href="./articles/805967-تفاصيل-الاجتماع-في-منزل-والد-خطاب-والمنشية-يتفق-مع-العبابنة?s=822f7981c47c683d66e152770678bc2f" title="تفاصيل الاجتماع في منزل والد خطاب والمنشية يتفق مع العبابنة"><span class="arrow highlight">&raquo;</span>تفاصيل الاجتماع في منزل والد خطاب...</a></li><li><a href="./articles/806018-ما-لا-يمكن-فهمه-في-برقش?s=822f7981c47c683d66e152770678bc2f" title="ما لا يمكن فهمه في برقش"><span class="arrow highlight">&raquo;</span>ما لا يمكن فهمه في برقش</a></li><li><a href="./articles/806059-الزعبي-الكلية-العسكرية-ستقام-بمنطقة-جرداء-بجانب-برقش?s=822f7981c47c683d66e152770678bc2f" title="الزعبي: الكلية العسكرية ستقام بمنطقة جرداء بجانب &quot;برقش&quot;"><span class="arrow highlight">&raquo;</span>الزعبي: الكلية العسكرية ستقام بمنطقة...</a></li><li><a href="./articles/805913-رسميا-السيسي-رئيسا-لمصر-بـ-96-9?s=822f7981c47c683d66e152770678bc2f" title="رسميا.. السيسي رئيسا لمصر بـ 96.9%"><span class="arrow highlight">&raquo;</span>رسميا.. السيسي رئيسا لمصر بـ 96.9%</a></li><li><a href="./articles/806039-الرقم-الوطني-يحرم-أبناء-أردنيات-من-تلقي-المعونة-الوطنية?s=822f7981c47c683d66e152770678bc2f" title="&quot;الرقم الوطني&quot; يحرم أبناء أردنيات من تلقي المعونة الوطنية"><span class="arrow highlight">&raquo;</span>&quot;الرقم الوطني&quot; يحرم أبناء أردنيات من...</a></li><li><a href="./articles/805970-دب-الباندا-يخطف-الأضواء-من-الأخطبوط-بول-ومونديال-قطر-في-خطر?s=822f7981c47c683d66e152770678bc2f" title="&quot;دب الباندا&quot; يخطف الأضواء من  الأخطبوط بول ومونديال قطر في خطر"><span class="arrow highlight">&raquo;</span>&quot;دب الباندا&quot; يخطف الأضواء من  الأخطبوط...</a></li><li><a href="./articles/806019-الشعب-السوري-الذي-يدهشنا?s=822f7981c47c683d66e152770678bc2f" title="الشعب السوري الذي يدهشنا"><span class="arrow highlight">&raquo;</span>الشعب السوري الذي يدهشنا</a></li><li><a href="./articles/805981-الإنفاق-من-المنحة-الخليجية-لم-يتجاوز-20?s=822f7981c47c683d66e152770678bc2f" title="الإنفاق من المنحة الخليجية لم يتجاوز 20 %"><span class="arrow highlight">&raquo;</span>الإنفاق من المنحة الخليجية لم يتجاوز 20...</a></li><li><a href="./articles/806017-الخطر-القادم-من-القاع?s=822f7981c47c683d66e152770678bc2f" title="الخطر القادم من القاع"><span class="arrow highlight">&raquo;</span>الخطر القادم من القاع</a></li></div><div id="most_0_commentcount"><ul><li><a href="./articles/806002-رأفت-علي-أنشودة-الوحدات-الخالدة?s=822f7981c47c683d66e152770678bc2f" title="رأفت علي.. أنشودة الوحدات الخالدة"><span class="arrow highlight">&raquo;</span>رأفت علي.. أنشودة الوحدات الخالدة</a></li><li><a href="./articles/806017-الخطر-القادم-من-القاع?s=822f7981c47c683d66e152770678bc2f" title="الخطر القادم من القاع"><span class="arrow highlight">&raquo;</span>الخطر القادم من القاع</a></li><li><a href="./articles/806019-الشعب-السوري-الذي-يدهشنا?s=822f7981c47c683d66e152770678bc2f" title="الشعب السوري الذي يدهشنا"><span class="arrow highlight">&raquo;</span>الشعب السوري الذي يدهشنا</a></li><li><a href="./articles/805967-تفاصيل-الاجتماع-في-منزل-والد-خطاب-والمنشية-يتفق-مع-العبابنة?s=822f7981c47c683d66e152770678bc2f" title="تفاصيل الاجتماع في منزل والد خطاب والمنشية يتفق مع العبابنة"><span class="arrow highlight">&raquo;</span>تفاصيل الاجتماع في منزل والد خطاب...</a></li><li><a href="./articles/805997-تفاهم-رؤيا-الغد-يغلب-البترا-احتفاء-بعيد-الاستقلال?s=822f7981c47c683d66e152770678bc2f" title="تفاهم &quot;رؤيا- الغد&quot; يغلب &quot;البترا&quot; احتفاء بعيد الاستقلال"><span class="arrow highlight">&raquo;</span>تفاهم &quot;رؤيا- الغد&quot; يغلب...</a></li><li><a href="./articles/806012-الله-لا-يجرب-حدا?s=822f7981c47c683d66e152770678bc2f" title="&quot;الله لا يجرب حدا&quot;"><span class="arrow highlight">&raquo;</span>&quot;الله لا يجرب حدا&quot;</a></li><li><a href="./articles/806039-الرقم-الوطني-يحرم-أبناء-أردنيات-من-تلقي-المعونة-الوطنية?s=822f7981c47c683d66e152770678bc2f" title="&quot;الرقم الوطني&quot; يحرم أبناء أردنيات من تلقي المعونة الوطنية"><span class="arrow highlight">&raquo;</span>&quot;الرقم الوطني&quot; يحرم أبناء أردنيات من...</a></li><li><a href="./articles/806018-ما-لا-يمكن-فهمه-في-برقش?s=822f7981c47c683d66e152770678bc2f" title="ما لا يمكن فهمه في برقش"><span class="arrow highlight">&raquo;</span>ما لا يمكن فهمه في برقش</a></li><li><a href="./articles/806024-الأسرى-والمنظمة?s=822f7981c47c683d66e152770678bc2f" title="&quot;الأسرى&quot; و&quot;المنظمة&quot;"><span class="arrow highlight">&raquo;</span>&quot;الأسرى&quot; و&quot;المنظمة&quot;</a></li><li><a href="./articles/806028-ثقة-مفقودة-بالحكومات!?s=822f7981c47c683d66e152770678bc2f" title="ثقة مفقودة بالحكومات!"><span class="arrow highlight">&raquo;</span>ثقة مفقودة بالحكومات!</a></li></div></div></div><!-- div class="al-banner">
+	<alghad_medium-rectangle>
+	<div id='div-gpt-ad-1391608370823-0' style='width:300px; height:600px;'>
+	<script type='text/javascript'>
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1391608370823-0'); });
+	</script>
+	</div>
+</div -->
+
+			</div>
+			<div id="al-right">
+
+<div class="al-slider-1 al-color-0" id="slider_home"><ul><li><h2><a href="./articles/806087-صعقة-كهربائية-تصيب-3-أشخاص-في-عمان?s=822f7981c47c683d66e152770678bc2f">صعقة كهربائية تصيب 3 أشخاص في عمان</a></h2><a href="./articles/806087-صعقة-كهربائية-تصيب-3-أشخاص-في-عمان?s=822f7981c47c683d66e152770678bc2f"><img src="./file.php?fileid=232000&width=636&height=323" width="636" height="323" title="صعقة كهربائية تصيب 3 أشخاص في عمان" /></a><div class="al-slider-1-prevtext">تعرض 3 أشخاص لإصابات وُصفت بـ"البالغة"، إثر حدوث صعقة كهربائية أثناء قيامهم بتنظيف منزلهم قرب إشارة وادي السير في العاصمة عمان</div></li><li><h2><a href="./articles/806075-ليبيا-نجاة-حفتر-من-محاولة-اغتيال-قرب-بنغازي?s=822f7981c47c683d66e152770678bc2f">ليبيا: نجاة حفتر من محاولة اغتيال قرب بنغازي</a></h2><a href="./articles/806075-ليبيا-نجاة-حفتر-من-محاولة-اغتيال-قرب-بنغازي?s=822f7981c47c683d66e152770678bc2f"><img src="./file.php?fileid=231987&width=636&height=323" width="636" height="323" title="ليبيا: نجاة حفتر من محاولة اغتيال قرب بنغازي" /></a><div class="al-slider-1-prevtext">شن مسلح هجوما انتحاريا بسيارة مفخخة، على مقر للواء الليبي المتقاعد خليفة حفتر، صباح اليوم الأربعاء، في منطقة الأبيار قرب بنغازي (شرقي ليبيا)، مما أسفر عن مقتل 3 حراس ومنفذ العملية</div></li><li><h2><a href="./articles/806071-أميركا-ستعمل-مع-الحكومة-المصرية-وتحث-السيسي-على-إصلاحات?s=822f7981c47c683d66e152770678bc2f">أميركا ستعمل مع الحكومة المصرية وتحث السيسي على إصلاحات</a></h2><a href="./articles/806071-أميركا-ستعمل-مع-الحكومة-المصرية-وتحث-السيسي-على-إصلاحات?s=822f7981c47c683d66e152770678bc2f"><img src="./file.php?fileid=231984&width=636&height=323" width="636" height="323" title="أميركا ستعمل مع الحكومة المصرية وتحث السيسي على إصلاحات" /></a><div class="al-slider-1-prevtext">اعلنت الولايات المتحدة اليوم الاربعاء، انها تتطلع للعمل مع الحكومة الجديدة للرئيس المصري المنتخب عبد الفتاح السيسي وحثته</div></li><li><h2><a href="./articles/806059-الزعبي-الكلية-العسكرية-ستقام-بمنطقة-جرداء-بجانب-برقش?s=822f7981c47c683d66e152770678bc2f">الزعبي: الكلية العسكرية ستقام بمنطقة جرداء بجانب &quot;برقش&quot;</a></h2><a href="./articles/806059-الزعبي-الكلية-العسكرية-ستقام-بمنطقة-جرداء-بجانب-برقش?s=822f7981c47c683d66e152770678bc2f"><img src="./file.php?fileid=231977&width=636&height=323" width="636" height="323" title="الزعبي: الكلية العسكرية ستقام بمنطقة جرداء بجانب &quot;برقش&quot;" /></a><div class="al-slider-1-prevtext">جدد وزير الزراعة عاكف الزعبي تأكيده أمس أن "الوزارة ملتزمة التزاما تاما بعدم قطع أي شجرة في غابات "برقش"، والسماح ببناء الكلية العسكرية في</div></li><li><h2><a href="./articles/805981-الإنفاق-من-المنحة-الخليجية-لم-يتجاوز-20?s=822f7981c47c683d66e152770678bc2f">الإنفاق من المنحة الخليجية لم يتجاوز 20 %</a></h2><a href="./articles/805981-الإنفاق-من-المنحة-الخليجية-لم-يتجاوز-20?s=822f7981c47c683d66e152770678bc2f"><img src="./file.php?fileid=231982&width=636&height=323" width="636" height="323" title="الإنفاق من المنحة الخليجية لم يتجاوز 20 %" /></a><div class="al-slider-1-prevtext">قدرت مصادر حكومية مطلعة ما تم انفاقه من المنحة الخليجية خلال الربع الأول من العام الحالي مما هو مخصص ما بين 15 الى 20 %</div></li><li><h2><a href="./articles/806039-الرقم-الوطني-يحرم-أبناء-أردنيات-من-تلقي-المعونة-الوطنية?s=822f7981c47c683d66e152770678bc2f">&quot;الرقم الوطني&quot; يحرم أبناء أردنيات من تلقي المعونة الوطنية</a></h2><a href="./articles/806039-الرقم-الوطني-يحرم-أبناء-أردنيات-من-تلقي-المعونة-الوطنية?s=822f7981c47c683d66e152770678bc2f"><img src="./file.php?fileid=231972&width=636&height=323" width="636" height="323" title="&quot;الرقم الوطني&quot; يحرم أبناء أردنيات من تلقي المعونة الوطنية" /></a><div class="al-slider-1-prevtext">ما يزال "الرقم الوطني" سيفا مصلتا على أبناء الأردنيات المتزوجات من جنسيات أخرى، وخصوصا في تمييزه بين الأم والابن من متلقي المعونة الوطنية</div></li><li><h2><a href="./articles/806040-العثور-على-3-من-أصل-7-أحداث-فارين-من-مركز-أسامة?s=822f7981c47c683d66e152770678bc2f">العثور على 3 من أصل 7 أحداث فارين من مركز &quot;أسامة&quot;</a></h2><a href="./articles/806040-العثور-على-3-من-أصل-7-أحداث-فارين-من-مركز-أسامة?s=822f7981c47c683d66e152770678bc2f"><img src="./file.php?fileid=231973&width=636&height=323" width="636" height="323" title="العثور على 3 من أصل 7 أحداث فارين من مركز &quot;أسامة&quot;" /></a><div class="al-slider-1-prevtext">تمكنت الجهات المختصة من العثور على ثلاثة من أصل سبعة أحداث فارين من مركز أسامة بن زيد لتربية الأحداث في الرصيفة</div></li></ul><span class="al_nav_prev highlight" id="slider_home_prev">&lsaquo;</span><span class="al_nav_next highlight" id="slider_home_next">&rsaquo;</span><span class="indicators highlight" id="slider_home_indicators"></span></div><div class="al-module-3 al-color-64 border"><div class="al-head"><a href="./categories/64-أفكار-ومواقف?s=822f7981c47c683d66e152770678bc2f">&rsaquo; أفكار ومواقف</a></div><div class="al-slider-6 border" count="5" id="slider_writers64"><ul><li><div class="al-module-6"><div class="al-content border" style="height: 190px;_height: 210px;"><div class="al-author"><a href="./members/36-محمد-أبو-رمان?s=822f7981c47c683d66e152770678bc2f"><img src="./file.php?fileid=396&width=104&height=104" width="104" height="104" title="محمد أبو رمان" tabindex="-1" /></a><a href="./members/36-محمد-أبو-رمان?s=822f7981c47c683d66e152770678bc2f"><h3>محمد أبو رمان</h3></a></div><h3><a href="./articles/806017-الخطر-القادم-من-القاع?s=822f7981c47c683d66e152770678bc2f"><span class="highlight">&raquo;</span>الخطر القادم من القاع</a></h3></div></div></li><li><div class="al-module-6"><div class="al-content border" style="height: 190px;_height: 210px;"><div class="al-author"><a href="./members/39-فهد-الخيطان?s=822f7981c47c683d66e152770678bc2f"><img src="./file.php?fileid=91&width=104&height=104" width="104" height="104" title="فهد الخيطان" tabindex="-1" /></a><a href="./members/39-فهد-الخيطان?s=822f7981c47c683d66e152770678bc2f"><h3>فهد الخيطان</h3></a></div><h3><a href="./articles/806018-ما-لا-يمكن-فهمه-في-برقش?s=822f7981c47c683d66e152770678bc2f"><span class="highlight">&raquo;</span>ما لا يمكن فهمه في برقش</a></h3></div></div></li><li><div class="al-module-6"><div class="al-content border" style="height: 190px;_height: 210px;"><div class="al-author"><a href="./members/37-ياسر-أبو-هلالة?s=822f7981c47c683d66e152770678bc2f"><img src="./file.php?fileid=397&width=104&height=104" width="104" height="104" title="ياسر أبو هلالة" tabindex="-1" /></a><a href="./members/37-ياسر-أبو-هلالة?s=822f7981c47c683d66e152770678bc2f"><h3>ياسر أبو هلالة</h3></a></div><h3><a href="./articles/806019-الشعب-السوري-الذي-يدهشنا?s=822f7981c47c683d66e152770678bc2f"><span class="highlight">&raquo;</span>الشعب السوري الذي يدهشنا</a></h3></div></div></li><li><div class="al-module-6"><div class="al-content border" style="height: 190px;_height: 210px;"><div class="al-author"><a href="./members/38-إبراهيم-غرايبة?s=822f7981c47c683d66e152770678bc2f"><img src="./file.php?fileid=398&width=104&height=104" width="104" height="104" title="إبراهيم غرايبة" tabindex="-1" /></a><a href="./members/38-إبراهيم-غرايبة?s=822f7981c47c683d66e152770678bc2f"><h3>إبراهيم غرايبة</h3></a></div><h3><a href="./articles/806023-الأسوأ-هو-انفصال-الغابات-عن-موارد-الناس!?s=822f7981c47c683d66e152770678bc2f"><span class="highlight">&raquo;</span>الأسوأ هو انفصال الغابات عن موارد الناس!</a></h3></div></div></li><li><div class="al-module-6"><div class="al-content border" style="height: 190px;_height: 210px;"><div class="al-author"><a href="./members/45-د-أحمد-جميل-عزم?s=822f7981c47c683d66e152770678bc2f"><img src="./file.php?fileid=97&width=104&height=104" width="104" height="104" title="د.أحمد جميل عزم" tabindex="-1" /></a><a href="./members/45-د-أحمد-جميل-عزم?s=822f7981c47c683d66e152770678bc2f"><h3>د.أحمد جميل عزم</h3></a></div><h3><a href="./articles/806024-الأسرى-والمنظمة?s=822f7981c47c683d66e152770678bc2f"><span class="highlight">&raquo;</span>&quot;الأسرى&quot; و&quot;المنظمة&quot;</a></h3></div></div></li><li><div class="al-module-6"><div class="al-content border" style="height: 190px;_height: 210px;"><div class="al-author"><a href="./members/67-جهاد-المنسي?s=822f7981c47c683d66e152770678bc2f"><img src="./file.php?fileid=119&width=104&height=104" width="104" height="104" title="جهاد المنسي" tabindex="-1" /></a><a href="./members/67-جهاد-المنسي?s=822f7981c47c683d66e152770678bc2f"><h3>جهاد المنسي</h3></a></div><h3><a href="./articles/806026-برقش-بأي-ذنب-قُطعت?s=822f7981c47c683d66e152770678bc2f"><span class="highlight">&raquo;</span>برقش.. بأي ذنب قُطعت</a></h3></div></div></li><li><div class="al-module-6"><div class="al-content border" style="height: 190px;_height: 210px;"><div class="al-author"><a href="./members/43-جهاد-المحيسن?s=822f7981c47c683d66e152770678bc2f"><img src="./file.php?fileid=95&width=104&height=104" width="104" height="104" title="جهاد المحيسن" tabindex="-1" /></a><a href="./members/43-جهاد-المحيسن?s=822f7981c47c683d66e152770678bc2f"><h3>جهاد المحيسن</h3></a></div><h3><a href="./articles/806028-ثقة-مفقودة-بالحكومات!?s=822f7981c47c683d66e152770678bc2f"><span class="highlight">&raquo;</span>ثقة مفقودة بالحكومات!</a></h3></div></div></li><li><div class="al-module-6"><div class="al-content border" style="height: 190px;_height: 210px;"><div class="al-author"><a href="./members/62-رنا-الصبّاغ?s=822f7981c47c683d66e152770678bc2f"><img src="./file.php?fileid=114&width=104&height=104" width="104" height="104" title="رنا الصبّاغ" tabindex="-1" /></a><a href="./members/62-رنا-الصبّاغ?s=822f7981c47c683d66e152770678bc2f"><h3>رنا الصبّاغ</h3></a></div><h3><a href="./articles/806012-الله-لا-يجرب-حدا?s=822f7981c47c683d66e152770678bc2f"><span class="highlight">&raquo;</span>&quot;الله لا يجرب حدا&quot;</a></h3></div></div></li><li><div class="al-module-6"><div class="al-content border" style="height: 190px;_height: 210px;"><div class="al-author"><a href="./members/184-د-ماجد-عسيلة?s=822f7981c47c683d66e152770678bc2f"><img src="./file.php?fileid=0&width=104&height=104" width="104" height="104" title="د.ماجد عسيلة" tabindex="-1" /></a><a href="./members/184-د-ماجد-عسيلة?s=822f7981c47c683d66e152770678bc2f"><h3>د.ماجد عسيلة</h3></a></div><h3><a href="./articles/805977-دبي-ساوباولو-بيونيس-آيرس-وبالعكس?s=822f7981c47c683d66e152770678bc2f"><span class="highlight">&raquo;</span>دبي- ساوباولو- بيونيس آيرس وبالعكس</a></h3></div></div></li><li><div class="al-module-6"><div class="al-content border" style="height: 190px;_height: 210px;"><div class="al-author"><a href="./members/51-نادر-رنتيسي?s=822f7981c47c683d66e152770678bc2f"><img src="./file.php?fileid=103&width=104&height=104" width="104" height="104" title="نادر رنتيسي" tabindex="-1" /></a><a href="./members/51-نادر-رنتيسي?s=822f7981c47c683d66e152770678bc2f"><h3>نادر رنتيسي</h3></a></div><h3><a href="./articles/805935-وقت-خالي-الدسم!?s=822f7981c47c683d66e152770678bc2f"><span class="highlight">&raquo;</span>وقت &quot;خالي الدسم&quot;!</a></h3></div></div></li></ul><span class="al_nav_prev highlight" id="slider_writers64_prev">&lsaquo;</span><span class="al_nav_next highlight" id="slider_writers64_next">&rsaquo;</span></div><div class="text-left"><a class="more" href="./writers?s=822f7981c47c683d66e152770678bc2f">كتاب الغد</a> &middot; <a class="more" href="./categories/64-أفكار-ومواقف?s=822f7981c47c683d66e152770678bc2f">المزيد <span class="highlight">&raquo;</span></a></div></div>
+
+				<div class="fixfloat">
+					<div class="al-left-inner">
+
+<div class="al-module-1 al-color-1"><div class="al-head background"><a href="./categories/1-الغد-الأردني?s=822f7981c47c683d66e152770678bc2f">الغد الأردني</a></div><div class="al-content border"><div class="fixfloat"><a href="./articles/806046-اتهامات-التنظيم-داخل-التنظيم-ترفع-حدة-الاستقطاب-في-الإخوان?s=822f7981c47c683d66e152770678bc2f"><img src="./file.php?fileid=26417&width=204&height=127" width="204" height="127" title="اتهامات &quot;التنظيم داخل التنظيم&quot; ترفع حدة الاستقطاب في الإخوان" /></a><h3><a href="./articles/806046-اتهامات-التنظيم-داخل-التنظيم-ترفع-حدة-الاستقطاب-في-الإخوان?s=822f7981c47c683d66e152770678bc2f">اتهامات &quot;التنظيم داخل التنظيم&quot; ترفع حدة الاستقطاب في الإخوان</a></h3><div>قال نائب المراقب العام لجماعة الإخوان المسلمين زكي بني ارشيد "إن المحركات التي دأبت تسعى لإشغال الجماعة واستنزاف جهدها وطاقتها</div></div><ul class="border"><li><a href="./articles/806041-النواب-يقر-إعفاءات-تدريبية-للمحامين?s=822f7981c47c683d66e152770678bc2f"><span class="arrow highlight">&raquo;</span>&quot;النواب&quot; يقر إعفاءات تدريبية للمحامين</a></li><li><a href="./articles/806047-الإسلاميون-يحصدون-مقاعد-تنفيذية-معلمي-الأونروا?s=822f7981c47c683d66e152770678bc2f"><span class="arrow highlight">&raquo;</span>الإسلاميون يحصدون مقاعد تنفيذية معلمي &quot;الأونروا&quot;</a></li><li><a href="./articles/806011-سائقان-محتجان-يغلقان-دوار-الداخلية?s=822f7981c47c683d66e152770678bc2f"><span class="arrow highlight">&raquo;</span>سائقان محتجان يغلقان دوار الداخلية</a></li><li><a href="./articles/806048-داود-نعكف-على-تحديد-الكلفة-النهائية-للحج?s=822f7981c47c683d66e152770678bc2f"><span class="arrow highlight">&raquo;</span>داود: نعكف على تحديد الكلفة النهائية للحج</a></li></ul><a class="more" href="./categories/1-الغد-الأردني?s=822f7981c47c683d66e152770678bc2f">المزيد <span class="highlight">&raquo;</span></a></div></div><div class="al-module-1 al-color-2"><div class="al-head background"><a href="./categories/2-اقتصاد?s=822f7981c47c683d66e152770678bc2f">اقتصاد</a></div><div class="al-content border"><div class="fixfloat"><a href="./articles/806079-صناعة-السيارات-تنتعش-في-أميركا?s=822f7981c47c683d66e152770678bc2f"><img src="./file.php?fileid=231993&width=204&height=127" width="204" height="127" title="صناعة السيارات تنتعش في أميركا" /></a><h3><a href="./articles/806079-صناعة-السيارات-تنتعش-في-أميركا?s=822f7981c47c683d66e152770678bc2f">صناعة السيارات تنتعش في أميركا</a></h3><div>أعلن مصنعو السيارات، الثلاثاء، عن مبيعات أعلى من المتوقع من السيارات الجديدة في الولايات المتحدة بلغت 1.6 مليون وحدة في مايو مع تحسن في طلب المستهلكين أعطى دعما لانتعاش أوسع في الاقتصاد الأميركي</div></div><ul class="border"><li><a href="./articles/806077-بورصة-عمان-تفتتح-على-ارتفاع?s=822f7981c47c683d66e152770678bc2f"><span class="arrow highlight">&raquo;</span>بورصة عمان تفتتح على ارتفاع</a></li><li><a href="./articles/805979-تسهيلات-البنوك-الأردنية-في-فلسطين-تنمو-4?s=822f7981c47c683d66e152770678bc2f"><span class="arrow highlight">&raquo;</span>تسهيلات البنوك الأردنية  في فلسطين تنمو %4</a></li><li><a href="./articles/805978-أبوربيع-دراسة-شاملة-لتقييم-أداء-مكاتب-ترويج-الاستثمار-والصادرات-الخارجية?s=822f7981c47c683d66e152770678bc2f"><span class="arrow highlight">&raquo;</span>أبوربيع: دراسة شاملة لتقييم أداء مكاتب  ترويج الاستثمار...</a></li><li><a href="./articles/805976-تقرير-الاستثمار-العقاري-في-دبي-الأفضل-عالميا-بنمو-28?s=822f7981c47c683d66e152770678bc2f"><span class="arrow highlight">&raquo;</span>تقرير: الاستثمار العقاري في دبي الأفضل عالميا بنمو 28 %</a></li></ul><a class="more" href="./categories/2-اقتصاد?s=822f7981c47c683d66e152770678bc2f">المزيد <span class="highlight">&raquo;</span></a></div></div><div class="al-module-1 al-color-5"><div class="al-head background"><a href="./categories/5-الرياضة?s=822f7981c47c683d66e152770678bc2f">الرياضة</a></div><div class="al-content border"><div class="fixfloat"><a href="./articles/805970-دب-الباندا-يخطف-الأضواء-من-الأخطبوط-بول-ومونديال-قطر-في-خطر?s=822f7981c47c683d66e152770678bc2f"><img src="./file.php?fileid=231949&width=204&height=127" width="204" height="127" title="&quot;دب الباندا&quot; يخطف الأضواء من  الأخطبوط بول ومونديال قطر في خطر" /></a><h3><a href="./articles/805970-دب-الباندا-يخطف-الأضواء-من-الأخطبوط-بول-ومونديال-قطر-في-خطر?s=822f7981c47c683d66e152770678bc2f">&quot;دب الباندا&quot; يخطف الأضواء من  الأخطبوط بول ومونديال قطر في خطر</a></h3><div>يبدو أن عشاق كرة القدم على موعد جديد مع "عالم التوقعات" ولا اقول "المراهنات، وإن كان ذلك يحدث علنا وسرا في دول كثيرة، ومن ينسى مقتل اللاعب الكولومبي اندرياس اسكوبار عقب مونديال أميركا 1994، حيث تلقى 12 رصاصة</div></div><ul class="border"><li><a href="./articles/806004-فالكاو-يغيب-عن-النهائيات-وريبيري-يلحق-بتشكيلة-فرنسا-النهائية?s=822f7981c47c683d66e152770678bc2f"><span class="arrow highlight">&raquo;</span>فالكاو يغيب عن النهائيات  وريبيري يلحق بتشكيلة فرنسا النهائية</a></li><li><a href="./articles/806009-بلاتيني-إشاعات-لا-أساس-لها-تهدف-إلى-تشويه-صورتي?s=822f7981c47c683d66e152770678bc2f"><span class="arrow highlight">&raquo;</span>بلاتيني: إشاعات لا أساس لها تهدف إلى تشويه صورتي</a></li><li><a href="./articles/806010-لامبارد-ينهي-مشوار-13-عاما-مع-تشلسي?s=822f7981c47c683d66e152770678bc2f"><span class="arrow highlight">&raquo;</span>لامبارد ينهي مشوار 13 عاما مع تشلسي</a></li><li><a href="./articles/806003-وادي-موسى-يبحث-عن-الصدارة-بالمحطة-والوحدات-جاهز-للعودة?s=822f7981c47c683d66e152770678bc2f"><span class="arrow highlight">&raquo;</span>وادي موسى يبحث عن الصدارة بالمحطة والوحدات جاهز للعودة</a></li></ul><a class="more" href="./categories/5-الرياضة?s=822f7981c47c683d66e152770678bc2f">المزيد <span class="highlight">&raquo;</span></a></div></div><div class="al-module-1 al-color-9"><div class="al-head background"><a href="./categories/9-محافظات?s=822f7981c47c683d66e152770678bc2f">محافظات</a></div><div class="al-content border"><div class="fixfloat"><a href="./articles/806074-جهود-لاستعادة-مسلة-ميشع-من-اللوفر-إلى-ذيبان?s=822f7981c47c683d66e152770678bc2f"><img src="./file.php?fileid=231986&width=204&height=127" width="204" height="127" title="جهود لاستعادة مسلة ميشع من &quot;اللوفر&quot; إلى ذيبان" /></a><h3><a href="./articles/806074-جهود-لاستعادة-مسلة-ميشع-من-اللوفر-إلى-ذيبان?s=822f7981c47c683d66e152770678bc2f">جهود لاستعادة مسلة ميشع من &quot;اللوفر&quot; إلى ذيبان</a></h3><div>بدأ نشطاء بالتحضير لعقد اجتماع وتشكيل لجنة تحضيرية لاستعادة (مسلة ميشع) وارجاعها الى موطنها الاصلي في لواء ذيبان بمحافظة مادبا</div></div><ul class="border"><li><a href="./articles/806038-الروابدة-الإصلاح-يجب-أن-يتم-بعيدا-عن-المحاصصة-وتحول-الأوطان-إلى-غنائم?s=822f7981c47c683d66e152770678bc2f"><span class="arrow highlight">&raquo;</span>الروابدة: الإصلاح يجب أن يتم بعيدا عن المحاصصة وتحول الأوطان إلى...</a></li><li><a href="./articles/806036-إتلاف-4-أطنان-مواد-غذائية-فاسدة-في-المفرق?s=822f7981c47c683d66e152770678bc2f"><span class="arrow highlight">&raquo;</span>إتلاف 4 أطنان مواد  غذائية فاسدة في المفرق</a></li><li><a href="./articles/806035-العمل-تفتتح-الفرع-الإنتاجي-لشركة-الأزياء-العالمية-في-بلدة-السرحان?s=822f7981c47c683d66e152770678bc2f"><span class="arrow highlight">&raquo;</span>&quot;العمل&quot; تفتتح الفرع الإنتاجي لشركة الأزياء العالمية في بلدة...</a></li><li><a href="./articles/806034-اليونيسف-تدرس-تركيب-شبكات-مياه-للزعتري?s=822f7981c47c683d66e152770678bc2f"><span class="arrow highlight">&raquo;</span>&quot;اليونيسف&quot; تدرس تركيب شبكات مياه &quot;للزعتري&quot;</a></li></ul><a class="more" href="./categories/9-محافظات?s=822f7981c47c683d66e152770678bc2f">المزيد <span class="highlight">&raquo;</span></a></div></div><div class="al-module-1 al-color-4"><div class="al-head background"><a href="./categories/4-حياتنا?s=822f7981c47c683d66e152770678bc2f">حياتنا</a></div><div class="al-content border"><div class="fixfloat"><a href="./articles/806088-فيسبوك-يوقف-دعاية-انتخابية-للأسد?s=822f7981c47c683d66e152770678bc2f"><img src="./file.php?fileid=232001&width=204&height=127" width="204" height="127" title="&quot;فيسبوك&quot; يوقف دعاية انتخابية للأسد" /></a><h3><a href="./articles/806088-فيسبوك-يوقف-دعاية-انتخابية-للأسد?s=822f7981c47c683d66e152770678bc2f">&quot;فيسبوك&quot; يوقف دعاية انتخابية للأسد</a></h3><div>اعلن موقع فيسبوك إيقاف إحدى الحملات الدعائية التي تدعو لإعادة انتخاب الرئيس السوري بشار الأسد، وذلك جراء موجة من الانتقادات طالت الشبكة الاجتماعية الأكبر بالعالم</div></div><ul class="border"><li><a href="./articles/806084-لبناني-يطلب-يد-صديقته-وسط-مباراة-لكرة-السلة-(فيديو)?s=822f7981c47c683d66e152770678bc2f"><span class="arrow highlight">&raquo;</span>لبناني يطلب يد صديقته وسط مباراة لكرة السلة (فيديو)</a></li><li><a href="./articles/806083-سجين-اميركي-يخرج-من-السجن-بريئا-بعد-17-عاما?s=822f7981c47c683d66e152770678bc2f"><span class="arrow highlight">&raquo;</span>سجين اميركي يخرج من السجن بريئا بعد 17 عاما</a></li><li><a href="./articles/806082-ايطاليا-تستعيد-لوحة-سرقها-النازيون-في-1944?s=822f7981c47c683d66e152770678bc2f"><span class="arrow highlight">&raquo;</span>ايطاليا تستعيد لوحة سرقها النازيون في 1944</a></li><li><a href="./articles/806081-سامسونغ-تتحرر-من-قبضة-غوغل-مع-هاتف-ذكي-من-دون-أندرويد?s=822f7981c47c683d66e152770678bc2f"><span class="arrow highlight">&raquo;</span>&quot;سامسونغ&quot; تتحرر من قبضة &quot;غوغل&quot; مع هاتف ذكي من دون...</a></li></ul><a class="more" href="./categories/4-حياتنا?s=822f7981c47c683d66e152770678bc2f">المزيد <span class="highlight">&raquo;</span></a></div></div><div class="al-module-1 al-color-3"><div class="al-head background"><a href="./categories/3-العرب-والعالم?s=822f7981c47c683d66e152770678bc2f">العرب والعالم</a></div><div class="al-content border"><div class="fixfloat"><a href="./articles/806086-السعودية-سجن-19-شخصا-من-مؤيدي-القاعدة?s=822f7981c47c683d66e152770678bc2f"><img src="./file.php?fileid=231999&width=204&height=127" width="204" height="127" title="السعودية: سجن 19 شخصا من مؤيدي القاعدة" /></a><h3><a href="./articles/806086-السعودية-سجن-19-شخصا-من-مؤيدي-القاعدة?s=822f7981c47c683d66e152770678bc2f">السعودية: سجن 19 شخصا من مؤيدي القاعدة</a></h3><div>حكمت محكمة سعودية مختصة بالنظر في قضايا الارهاب بسجن مجموعة مكونة من 19 شخصا مددا تتراوح بين سنة و15 سنة اثر ادانتهم بتاييد القاعدة "والتحريض للخروج لمواطن الفتنة".</div></div><ul class="border"><li><a href="./articles/806073-انتخابات-الرئاسة-السورية-بدء-الفرز-وتوقع-إعلان-النتائج-الخميس?s=822f7981c47c683d66e152770678bc2f"><span class="arrow highlight">&raquo;</span>انتخابات الرئاسة السورية: بدء الفرز وتوقع إعلان النتائج الخميس</a></li><li><a href="./articles/806072-روبرت-فورد-يهاجم-سياسة-أوباما-في-سورية?s=822f7981c47c683d66e152770678bc2f"><span class="arrow highlight">&raquo;</span>روبرت فورد يهاجم سياسة أوباما في سورية</a></li><li><a href="./articles/806065-أطفال-أسرى-يروون-تفاصيل-تعذيبهم-في-معتقلات-الاحتلال?s=822f7981c47c683d66e152770678bc2f"><span class="arrow highlight">&raquo;</span>أطفال أسرى يروون تفاصيل تعذيبهم في معتقلات الاحتلال</a></li><li><a href="./articles/806067-ردود-فعل-عربية-ودولية-مرحبة-بالحكومة-الفلسطينية-الجديدة?s=822f7981c47c683d66e152770678bc2f"><span class="arrow highlight">&raquo;</span>ردود فعل عربية ودولية مرحبة بالحكومة الفلسطينية الجديدة</a></li></ul><a class="more" href="./categories/3-العرب-والعالم?s=822f7981c47c683d66e152770678bc2f">المزيد <span class="highlight">&raquo;</span></a></div></div>					</div>
+					<div class="al-right-inner">
+
+<div class="al-module-2 al-color-10"><div class="al-head"><a href="./categories/10-زواريب?s=822f7981c47c683d66e152770678bc2f">&rsaquo; زواريب</a></div><div class="al-content border"><ul><li style="width:100%;"><a href="./categories/10-زواريب?s=822f7981c47c683d66e152770678bc2f"><span class="highlight">&raquo;</span>نقيب الممرضين محمد حتاملة ذكر أنه سيتم رفع رسالة الى رئيس الديوان الملكي، تتضمن شكوى ضد...</a></li></ul></div></div><img src="./images/banner_right2_120x250.jpg"  width="120" height="250" style="margin-bottom: 10px;" /><div class="al-module-2">
+	<div class="al-head"><a href="#">حالة الطقس</a></div>
+	<div class="al-content border"><div id="weather"><select id="tabobj_weather"><option id="1797_w" style="background:url(http://sitewidgets.arabiaweather.com/assets/icons/weather/25x25/2.png)" value="1797">عمان 30&deg;</option><option id="1801_w" style="background:url(http://sitewidgets.arabiaweather.com/assets/icons/weather/25x25/2.png)" value="1801">البلقاء 30&deg;</option><option id="1805_w" style="background:url(http://sitewidgets.arabiaweather.com/assets/icons/weather/25x25/2.png)" value="1805">عجلون 29&deg;</option><option id="422_w" style="background:url(http://sitewidgets.arabiaweather.com/assets/icons/weather/25x25/1.png)" value="422">الكرك 30&deg;</option><option id="186_w" style="background:url(http://sitewidgets.arabiaweather.com/assets/icons/weather/25x25/1.png)" value="186">العقبة 38&deg;</option><option id="1820_w" style="background:url(http://sitewidgets.arabiaweather.com/assets/icons/weather/25x25/2.png)" value="1820">الزرقاء 31&deg;</option><option id="184_w" style="background:url(http://sitewidgets.arabiaweather.com/assets/icons/weather/25x25/2.png)" value="184">إربد 29&deg;</option><option id="185_w" style="background:url(http://sitewidgets.arabiaweather.com/assets/icons/weather/25x25/1.png)" value="185">المفرق 27&deg;</option><option id="1809_w" style="background:url(http://sitewidgets.arabiaweather.com/assets/icons/weather/25x25/2.png)" value="1809">جرش 29&deg;</option><option id="1834_w" style="background:url(http://sitewidgets.arabiaweather.com/assets/icons/weather/25x25/2.png)" value="1834">مأدبا 30&deg;</option><option id="1844_w" style="background:url(http://sitewidgets.arabiaweather.com/assets/icons/weather/25x25/1.png)" value="1844">معان 26&deg;</option><option id="1839_w" style="background:url(http://sitewidgets.arabiaweather.com/assets/icons/weather/25x25/1.png)" value="1839">الطفيلة 28&deg;</option></select></div>
+		<img src="http://alghad.com//images/arabiaweather.jpg"/>
+	</div>
+</div><a href="http://alghad.newspaperdirect.com/epaper/viewer.aspx"><img src="./images/banner_right1.jpg"  width="120" style="margin-bottom: 10px;" /></a><div class="al-banner">
+	<!-- alghad_medium-rectangle -->
+	<div id='div-gpt-ad-1391337273256-2' style='width:120px; height:600px;text-align:center;'>
+	<script type='text/javascript'>
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1391337273256-2'); });
+	</script>
+	</div>
+</div>
+
+					</div>
+				</div>
+			</div>
+<!-- alghad_wide-skyscraper-right -->
+<div id='div-gpt-ad-1392018642001-0' style='width:160px;height:600px;position:absolute;right:-170px;text-align:left;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1392018642001-0'); });
+</script>
+</div>
+<!-- alghad_wide-skyscraper -->
+<div id='div-gpt-ad-1391348094794-0' style='width:160px;height:600px;position:absolute;left:-170px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1391348094794-0'); });
+</script>
+</div>
+<!-- alghad_float -->
+<div id='div-gpt-ad-1395670702146-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1395670702146-0'); });
+</script>
+</div>
+
+		</div>
+
+		<div class="al-container fixfloat">
+<!-- including gallery function path -->
+<div class="al-module-6 al-color-44"><div class="al-head background"><a href="./categories/44-صور-الغد?s=822f7981c47c683d66e152770678bc2f">صور الغد</a></div><div class="al-content border"><ul class="al-row"><li class="al-col-3"><a href="./articles/805757-تدريبات-الحرب-الكيماوية-في-الأسد-المتأهب?s=822f7981c47c683d66e152770678bc2f"><img src="./file.php?fileid=231818&width=231&height=231" width="231" height="231" title="تدريبات الحرب الكيماوية في &quot;الأسد المتأهب&quot;" /></a></li><li class="al-col-3"><a href="./articles/803117-الاستعدادات-في-عمان-لزيارة-البابا?s=822f7981c47c683d66e152770678bc2f"><img src="./file.php?fileid=230129&width=231&height=231" width="231" height="231" title="الاستعدادات في عمان لزيارة البابا" /></a></li><li class="al-col-3"><a href="./articles/522847-المصريون-في-الأردن-يختارون-رئيسهم?s=822f7981c47c683d66e152770678bc2f"><img src="./file.php?fileid=229451&width=231&height=231" width="231" height="231" title="المصريون في الأردن يختارون رئيسهم" /></a></li><li class="al-col-3"><a href="./articles/520988-جانب-من-فعاليات-معرض-سوفكس-للعمليات-الخاصة-في-عمان?s=822f7981c47c683d66e152770678bc2f"><img src="./file.php?fileid=12918&width=231&height=231" width="231" height="231" title="جانب من فعاليات معرض سوفكس للعمليات الخاصة في عمان" /></a></li></ul></div></div><!-- including gallery function path -->
+		</div>
+	</div>
+<!-- including footer function path -->
+	<div id="al-foot" align="center">
+		<div class="al-container">
+			<ul>
+				<li class="al-icon-social">
+					<a href="https://www.facebook.com/alghadnewspaper" target="_blank">Facebook</a>
+					<a class="google" href="https://plus.google.com/102540826095563741310/posts" target="_blank">Google+</a>
+					<a class="twitter" href="https://twitter.com/AlghadNews" target="_blank">Twitter</a>
+					<a class="youtube" href="http://www.youtube.com/alghadnewspaper" target="_blank">Youtube</a>
+					<!--a class="rss" href="#">RSS</a>
+					<a class="linkedin" href="#">Linkedin</a>
+					<a class="email" href="#">Email</a-->
+					<div class="left fb-like" data-href="https://www.facebook.com/alghadnewspaper" data-layout="button" data-action="like" data-show-faces="true" data-share="false" style="margin-top: 3px;"></div>
+				</li>
+				<li class="al-foot-li"><a href="./?s=822f7981c47c683d66e152770678bc2f"><img src="./images/al_logo_foot.png" /></a></li>
+
+				<li class="al-foot-li">
+					<ul class="al-links">
+						<li><a href="./about-us.php">من نحن</a></li>
+						<li><a href="./contact-us.php">إتصل بنا</a></li>
+						<li><a href="./ad-with-us.php">أعلن معنا</a></li>
+						<li><a href="./policies.php">شروط الإستخدام</a></li>
+					</ul>
+				</li>
+				<li class="al-foot-li">
+					<ul class="al-links">
+<li><a href="./categories/6-السيارات?s=822f7981c47c683d66e152770678bc2f">السيارات</a></li><li><a href="./categories/7-كاريكاتير?s=822f7981c47c683d66e152770678bc2f">كاريكاتير</a></li><li><a href="./categories/44-صور-الغد?s=822f7981c47c683d66e152770678bc2f">صور الغد</a></li><li><a href="./categories/67-وفيات?s=822f7981c47c683d66e152770678bc2f">وفيات</a></li></ul></li><li class="al-foot-li"><ul class="al-links"><li><a href="./categories/107-دين-و-دنيا?s=822f7981c47c683d66e152770678bc2f">دين و دنيا</a></li><li><a href="./categories/130-تلفزيون-الغد?s=822f7981c47c683d66e152770678bc2f">تلفزيون الغد</a></li>						<li><a href="./writers?s=822f7981c47c683d66e152770678bc2f">كتاب الغد</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+
+	<div id="al-copyright" align="center">
+		<div class="al-container">
+			<a style="float:left;" href="http://www.joos.co">Powered by: joos.co</a>
+			&copy; 2014 جميع حقوق النشر محفوظة لجريدة الغد		</div>
+	</div>
+
+	<!-- JS and analytics only. -->
+	<script type="text/javascript">
+	<!--
+	var AL_URL = "http://www.alghad.com//";
+	var AL_COOKIE = "AL";
+	var SESSIONURL = "822f7981c47c683d66e152770678bc2f";
+	var AL_DisableAJAX = parseInt("0", 10);
+	var AL_FontClass = "";
+	// -->
+	</script>
+	<script type="text/javascript" src="./js/al_global.js?v=7"></script>
+	<script type="text/javascript">
+	<!--
+	AL_AJAX_Tab_Init(document, 'ul', 'li');
+	AL_AJAX_Tab_Init(document, 'select', 'option');
+	AL_Slider_Init(document);
+	//-->
+	</script>
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+	</script>
+<!-- end of including foot function path -->
+</body>
+</html>

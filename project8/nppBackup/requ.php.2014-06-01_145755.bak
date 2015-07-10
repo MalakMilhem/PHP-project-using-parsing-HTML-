@@ -1,0 +1,6 @@
+<?php
+$name="malak musb-ah / milhem";
+
+$name = substr($name, 0, strpos($name,'/'));
+echo $name;
+?>

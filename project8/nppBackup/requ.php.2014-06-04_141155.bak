@@ -1,0 +1,86 @@
+
+<a href="save_the_page.php">Back</a>
+
+
+<?php
+include('simple_html_dom.php');
+include('extract_css_urls.php');
+session_start();
+
+//finding the <href>
+$html = new simple_html_dom();  
+$html = file_get_html($_SESSION['name_of_new_page']);
+
+$my_style_url=$html->find('link') ;
+foreach($my_style_url as $element) 
+$my_style[] = $element->href;
+
+
+
+
+foreach($my_style as $element) 
+{
+$num= strrpos($element,'/');
+$elements[] =substr($element,0,$num);
+}
+
+
+
+///////////////////////////////////////////////////////////////
+
+$text = file_get_contents('style_saved/style.css');
+$urls = extract_css_urls( $text );
+
+foreach($urls['property'] as $element)
+{
+$num= strpos($element,'/');
+$img_elements[] =substr($element,$num);
+}
+
+
+
+foreach($elements as $url)
+{
+foreach($img_elements as $img_url)
+{
+$my_img[]=$url.$img_url;
+}
+}
+
+
+/*
+$fullpath ="images_saved";
+foreach($my_img as $i)
+{
+    image_save_from_url($i,$fullpath); 
+    }
+
+ 
+function image_save_from_url($my_img,$fullpath)
+{
+   ini_set('max_execution_time', 1000);
+   
+   if($fullpath!="" && $fullpath)
+	{
+        $fullpath = $fullpath."/".basename($my_img);
+    }
+
+
+    $ch = curl_init ($my_img);
+    curl_setopt($ch, CURLOPT_HEADER,0);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_BINARYTRANSFER,1);
+    curl_setopt ($ch, CURLOPT_FOLLOWLOCATION, 1);
+    $rawdata=curl_exec($ch);
+    curl_close ($ch);
+	
+    if(file_exists($fullpath))
+	{
+        unlink($fullpath);
+    }
+    $fp = fopen($fullpath,'w+'); 
+    fwrite($fp, $rawdata);
+    fclose($fp);
+
+}*/
+?>

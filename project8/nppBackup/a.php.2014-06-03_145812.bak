@@ -1,0 +1,27 @@
+
+<?php 
+session_start();
+  include('simple_html_dom.php');
+  $fileName = $_SESSION['name_of_new_page']; 
+  include('extract_css_urls.php');
+ 
+//replace on html file
+$html = new simple_html_dom();  
+$html = file_get_html($_SESSION['name_of_new_page']);
+$my_img_url=$html->find('img') ;
+$my_style_url=$html->find('link') ;
+//array_push($my_style_url,"test.css");
+
+$handle1 = fopen($fileName,'r'); 
+while (!feof($handle1))
+	{ 
+	$text=fgets($handle1);
+
+	foreach($my_style_url as $element)
+		{
+		 $style_name= basename($element->href);
+
+			}
+		}
+		
+		?>

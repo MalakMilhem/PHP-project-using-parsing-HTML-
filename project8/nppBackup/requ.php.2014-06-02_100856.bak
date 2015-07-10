@@ -1,0 +1,54 @@
+<?php
+include('simple_html_dom.php');
+include('extract_css_urls.php');
+
+//finding the <href>
+$html = new simple_html_dom();  
+$html = file_get_html('addustour.html');
+
+$my_style_url=$html->find('link') ;
+foreach($my_style_url as $element) 
+$my_style[] = $element->href;
+
+
+foreach($my_style as $element) 
+{
+$num= strrpos($element,'/');
+$elements[] =substr($element,0,$num);
+}
+
+
+foreach($elements as $element) 
+echo $element."<br>";
+///////////////////////////////////////////////////////////////
+
+$text = file_get_contents('style_saved/style.css');
+$urls = extract_css_urls( $text );
+
+
+$url[]=array_merge($elements,$urls);
+
+
+foreach ($url as $i)
+echo $i;
+
+/*
+echo "<pre>";
+var_dump( $urls );
+echo "</pre>";
+
+
+if ( !empty( $urls['import'] ) )
+echo "<pre>";
+    var_dump( $urls['import'] );
+echo "</pre>";	
+
+	if ( !empty( $urls['property'] ) )
+	echo "<pre>";
+    var_dump('property' );
+	echo "</pre>";	
+
+*/
+
+
+?>

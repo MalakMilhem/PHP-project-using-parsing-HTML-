@@ -1,0 +1,11 @@
+
+<?php 
+
+$name=file_get_contents("http://localhost/project/stylefile_replacment.php");
+$file = fopen("style.css.","w");
+echo fwrite($file,$name);
+fclose($file);
+
+
+
+?>

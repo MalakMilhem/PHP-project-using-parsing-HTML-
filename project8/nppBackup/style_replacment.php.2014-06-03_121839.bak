@@ -1,0 +1,26 @@
+
+<?php
+$handle = fopen("style.css",'r+'); 
+while (!feof($handle))
+{ 
+
+$text=fgets($handle);
+
+
+foreach($img_elements as $element)
+{
+
+ $img_name= basename($element);
+
+if (strpos($text,$img_name) !== false)
+ {
+   $text2=str_replace($element,"images_saved/".$img_name,$text);
+   $text=$text2; 
+
+}
+}
+
+echo $text."<br>";
+ }
+ 
+ ?>

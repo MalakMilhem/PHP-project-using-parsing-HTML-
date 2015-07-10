@@ -1,0 +1,45 @@
+
+<?php 
+  include('simple_html_dom.php');
+  include('extract_css_urls.php');
+
+
+
+
+$text1 = file_get_contents('style_saved/style.css');
+$urls = extract_css_urls($text1);
+
+foreach($urls['property'] as $element)
+{
+$num= strpos($element,'../');
+$img_elements[] =substr($element,$num);
+}
+
+
+
+$handle = fopen("style_saved/style.css",'r+'); 
+while (!feof($handle))
+{ 
+
+$GLOBALS['text']=fgets($handle);
+
+
+foreach($img_elements as $element)
+{
+
+ $img_name= basename($element);
+
+if (strpos($text,$img_name) !== false)
+ {
+   $text2=str_replace($element,"images_saved/".$img_name,$text);
+   $GLOBALS['text']=$text2; 
+
+}
+}
+
+echo $GLOBALS['text']."<br>";
+ }
+  
+fclose($handle);
+
+?>

@@ -1,0 +1,59 @@
+<?php
+include('simple_html_dom.php');
+session_start();
+
+//save the page in my computer
+$homepage = file_get_contents($_SESSION['url']);
+$name_of_new_page=$_SESSION['name_of_new_page'];
+file_put_contents($name_of_new_page,$homepage);
+
+$stylepics = file_get_contents('style_saved/style.css');
+
+
+//finding the <img>
+$html = new simple_html_dom();  
+$html = file_get_html('addustour.html');
+
+$my_img_url=$html->find('img') ;
+
+
+foreach($my_img_url as $element) 
+$my_img[] =$element->src;
+//
+
+
+$fullpath ="images_saved";
+foreach($my_img as $i)
+{
+    image_save_from_url($i,$fullpath); 
+    }
+
+ 
+function image_save_from_url($my_img,$fullpath)
+{
+   ini_set('max_execution_time', 900);
+   
+   if($fullpath!="" && $fullpath)
+	{
+        $fullpath = $fullpath."/".basename($my_img);
+    }
+
+
+    $ch = curl_init ($my_img);
+    curl_setopt($ch, CURLOPT_HEADER,0);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_BINARYTRANSFER,1);
+    curl_setopt ($ch, CURLOPT_FOLLOWLOCATION, 1);
+    $rawdata=curl_exec($ch);
+    curl_close ($ch);
+	
+    if(file_exists($fullpath))
+	{
+        unlink($fullpath);
+    }
+    $fp = fopen($fullpath,'w+'); 
+    fwrite($fp, $rawdata);
+    fclose($fp);
+
+}
+?>

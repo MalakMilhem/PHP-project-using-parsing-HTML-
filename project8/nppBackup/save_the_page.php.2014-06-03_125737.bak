@@ -1,0 +1,30 @@
+<html> 
+<body>
+
+<form  method="post">
+URL: <input type="text" name="name"><br>
+<input type="submit" name="sub">
+</form>
+
+</body>
+</html>
+
+
+<?php
+
+if(!empty($_POST['sub']))
+{
+echo $_POST["name"]; 
+
+//save the page in my computer
+
+$homepage = file_get_contents($_POST["name"]);
+
+$name_of_new_page=basename($_POST["name"]);
+
+file_put_contents($name_of_new_page,$homepage);
+
+}
+
+?>
+		  

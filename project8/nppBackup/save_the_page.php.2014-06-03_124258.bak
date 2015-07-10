@@ -1,0 +1,17 @@
+<form  method="post">
+Url: <input type="text" name="url"><br>
+</form>
+
+
+
+<?php
+$name=$_POST["url"];
+echo $name;
+//save the page in my computer
+
+$homepage = file_get_contents("http://www.addustour.com/");
+$name_of_new_page='alghad.html';
+file_put_contents($name_of_new_page,$homepage);
+
+?>
+		  

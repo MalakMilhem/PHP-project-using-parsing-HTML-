@@ -1,0 +1,14 @@
+
+
+<?php
+
+//save the page in my computer
+
+$homepage = file_get_contents('http://localhost/project/stylefile_replacment.php');
+$name_of_new_page='style.css';
+file_put_contents($name_of_new_page,$homepage);
+
+?>
+		  
+
+

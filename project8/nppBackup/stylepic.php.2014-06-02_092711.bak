@@ -1,0 +1,18 @@
+<?php
+//$css IS A VAR CONTAINING THAT CSS CODE ABOVE
+$css='style.css';
+echo $css;
+
+$pattern = file_get_contents('style_saved/style.css');
+
+
+
+$pattern = '/url\(([^\)]+)/i';
+preg_match_all($pattern,$css,$out);
+$urls = $out[1];
+
+//ALL URLS ARE IN $urls IN AN ARRAY 
+
+?>
+
+

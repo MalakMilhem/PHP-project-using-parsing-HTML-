@@ -1,0 +1,67 @@
+
+<?php 
+  include('library/simple_html_dom.php');
+  $fileName = "addustour.html"; 
+  
+ if( !isset( $_SERVER['HTTP_USER_AGENT'])){
+    $name = "none";
+}else{
+     $userAgent = strtolower($_SERVER['HTTP_USER_AGENT']);
+
+    if (preg_match('/opera/', $userAgent)) {
+        $name = 'opera';
+    }
+
+  //finding img url
+$html = new simple_html_dom();  
+$html = file_get_html('addustour.html');
+$my_img_url=$html->find('img') ;
+$my_style_url=$html->find('link') ;
+
+
+$handle = fopen($fileName,'r'); 
+while (!feof($handle))
+{ 
+
+
+$text=fgets($handle);
+
+
+foreach($my_style_url as $element)
+{
+ $style_name= basename($element->href);
+
+if (strpos($text,$style_name) !== false)
+ {
+
+   $text2=str_replace($element->href,"style_saved/".$style_name, $text);
+   $text=$text2;
+
+}
+}
+
+
+foreach($my_img_url as $element)
+{
+ $img_name= basename($element->src);
+ 
+if (strpos($text,$img_name) !== false)
+ {
+ 
+ //echo $element->src;
+ //echo $img_name;
+//echo $my_img_url["attr"]["src"];
+
+   $text2=str_replace($element->src,"images_saved/".$img_name, $text);
+   $text=$text2;
+}
+}
+
+
+
+echo $text;
+ }
+  
+fclose($handle);
+} 
+?>

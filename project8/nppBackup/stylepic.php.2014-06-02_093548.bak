@@ -1,0 +1,17 @@
+<?php
+
+include('extract_css_urls.php');
+
+
+$text = file_get_contents('style_saved/style.css');
+$urls = extract_css_urls( $text );
+print_r( $urls )."<br>";
+
+if ( !empty( $urls['import'] ) )
+    print_r( $urls['import'] );
+	
+	if ( !empty( $urls['property'] ) )
+    print_r( $urls['property'] )."<br>";
+?>
+
+
